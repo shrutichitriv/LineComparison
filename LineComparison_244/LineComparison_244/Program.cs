@@ -8,8 +8,11 @@ namespace LineComparison_244
         {
             Console.WriteLine("Welcome to Line Comparison Program");
 
-            L1_LengthCal.Length();
-            Console.ReadLine();
+            //L1_LengthCal.Length();
+            //Console.ReadLine();
+
+             L2_Equality2Lines.Equal();
+             Console.ReadLine();
         }
     }
 }
