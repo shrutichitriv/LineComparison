@@ -11,8 +11,11 @@ namespace LineComparison_244
             //L1_LengthCal.Length();
             //Console.ReadLine();
 
-             L2_Equality2Lines.Equal();
-             Console.ReadLine();
+             //L2_Equality2Lines.Equal();
+             //Console.ReadLine();
+
+            L3_EqualGreaterLess.Greater();
+            Console.ReadLine();
         }
     }
 }
